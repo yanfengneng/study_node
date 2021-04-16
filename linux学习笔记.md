@@ -134,7 +134,7 @@ undatedb 需要在 sudo（管理员权限）下才能使用
 
 **grep -v [搜索内容] [文件名]**：反向搜索，搜索不含有`[搜索内容]`的行
 
-![image-20210413171104510](https://github.com/yanfengneng/study_node/blob/master/image/grep%20-v.png)
+![image-20210413171104510](https://github.com/yanfengneng/study_node/blob/master/image/grep.png)
 
 
 
