@@ -128,13 +128,13 @@ undatedb 需要在 sudo（管理员权限）下才能使用
 
 **grep [搜索内容] [文件名]**：在给定文件中搜寻指定的字符串。`grep -i `在搜寻时会忽略字符串的大小写，而`grep -r`则会在当前目录的文件中递归搜寻指定的字符串。
 
-![image-20210413170844305](D:\Code\study_node\image\grep.png) 
+![image-20210413170844305](https://github.com/yanfengneng/study_node/blob/master/image/grep.png) 
 
 
 
 **grep -v [搜索内容] [文件名]**：反向搜索，搜索不含有`[搜索内容]`的行
 
-![image-20210413171104510](https://github.com/yanfengneng/study_node/blob/master/image/grep.png)
+![image-20210413171104510](https://github.com/yanfengneng/study_node/blob/master/image/grep%20-v.png)
 
 
 
