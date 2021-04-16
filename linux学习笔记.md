@@ -66,7 +66,7 @@ Linux 一般是做服务端的操作系统。
 
 **8、man rm**：查看所有手册
 
-![image-20210412215610884](https://github.com/yanfengneng/study_node/blob/master/image/man rm.png)
+![image-20210412215610884](https://github.com/yanfengneng/study_node/blob/master/image/man%20rm.png)
 
 **rm --help**：查看 rm 的所有命令
 
@@ -76,7 +76,7 @@ Linux 一般是做服务端的操作系统。
 
 例：**which ls**
 
-![image-20210412223435850](https://github.com/yanfengneng/study_node/blob/master/image/which ls.png)
+![image-20210412223435850](https://github.com/yanfengneng/study_node/blob/master/image/which%20ls.png)
 
 **which cd 为空，因为 cd 为 shell 内置的命令**
 
@@ -94,7 +94,7 @@ undatedb 需要在 sudo（管理员权限）下才能使用
 
 **11、cat（concatenate and print files）**：用于在标准输出（监控器或屏幕）上查看文件内容
 
-![image-20210413165213506](https://github.com/yanfengneng/study_node/blob/master/image/cat more.png)
+![image-20210413165213506](https://github.com/yanfengneng/study_node/blob/master/image/cat%20more.png)
 
 ***
 
@@ -108,7 +108,7 @@ undatedb 需要在 sudo（管理员权限）下才能使用
 
 ![image-20210413141846861](https://github.com/yanfengneng/study_node/blob/master/image/find.png)
 
-![image-20210413143555333](https://github.com/yanfengneng/study_node/blob/master/image/find 123.png)
+![image-20210413143555333](https://github.com/yanfengneng/study_node/blob/master/image/find%20123.png)
 
 
 
@@ -116,7 +116,7 @@ undatedb 需要在 sudo（管理员权限）下才能使用
 
 **find /home [-name|-iname] [文件名]**：-name 表示`区分大小写`的搜索，-iname 表示`不区分大小写`的搜索
 
-![image-20210413145041350](https://github.com/yanfengneng/study_node/blob/master/image/-iname -name.png)
+![image-20210413145041350](https://github.com/yanfengneng/study_node/blob/master/image/-iname%20-name.png)
 
 ==通配符搜索的话，* 表示多个任意字符，？表示一个任意字符。==
 
@@ -134,7 +134,7 @@ undatedb 需要在 sudo（管理员权限）下才能使用
 
 **grep -v [搜索内容] [文件名]**：反向搜索，搜索不含有`[搜索内容]`的行
 
-![image-20210413171104510](https://github.com/yanfengneng/study_node/blob/master/image/grep -v.png)
+![image-20210413171104510](https://github.com/yanfengneng/study_node/blob/master/image/grep%20-v.png)
 
 
 
@@ -172,7 +172,7 @@ userdel [用户名]：删除用户
 
 添加用户组：`groupadd group1`
 
-![image-20210416153554500](D:\Code\study_node\image\groupadd.png)
+![image-20210416153554500](https://github.com/yanfengneng/study_node/blob/master/image/groupadd.png)
 
 给用户组改名：`groupmod -n group1new group1`
 
