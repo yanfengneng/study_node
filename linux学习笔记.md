@@ -6,7 +6,7 @@ Linux 一般是做服务端的操作系统。
 
 **1、ls（list）**：列举当前工作目录的内容
 
-![image-20210411155038502](https://github.com/yanfengneng/study_node/blob/master/image/ls.png)
+![image-20210411155038502](/image/ls.png)
 
 ***
 
@@ -80,13 +80,13 @@ Linux 一般是做服务端的操作系统。
 
 **which cd 为空，因为 cd 为 shell 内置的命令**
 
-![image-20210412224144784](https://github.com/yanfengneng/study_node/blob/master/image/用户.png)
+![image-20210412224144784](image/用户.png)
 
 ***
 
 **10、touch**：创建文件命令
 
-![image-20210413162842479](https://github.com/yanfengneng/study_node/blob/master/image/touch.png)
+![image-20210413162842479](/image/touch.png)
 
 undatedb 需要在 sudo（管理员权限）下才能使用
 
