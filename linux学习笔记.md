@@ -164,7 +164,7 @@ su：用于切换用户的。
 
 userdel [用户名]：删除用户
 
-![image-20210416152230717](/master/image/userdel.png)
+![image-20210416152230717](/image/userdel.png)
 
 ***
 
